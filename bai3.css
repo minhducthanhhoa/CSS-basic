@@ -1,0 +1,20 @@
+.circel {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50%;
+}
+
+.HV {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+
+}
+.Hinh3 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-top-right-radius: 20px;  
+    border-bottom-left-radius: 20px;  
+}

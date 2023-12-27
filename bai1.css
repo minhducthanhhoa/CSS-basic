@@ -1,0 +1,12 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#heading1 {
+    color: blue;
+}
+#heading2 {
+    color: red;
+}
+.heading3 {
+    background-color: yellow;
+}
